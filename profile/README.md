@@ -14,9 +14,9 @@
 - **Ezrinix**: [ezrinix.com](https://ezrinix.com)
 
 ## Contact Us
-- **General Enquiries**: [hello@boring.global](mailto:business@krixio.digital)
-- **Legal Enquiries** (DMCA, Legal requests): [legal@boring.global](mailto:legal@krixio.digital)
-- **Network** (Abuse Reports): [reports@boring.global](mailto:reports@krixio.digital)
+- **General Enquiries**: [business@krixio.digital](mailto:business@krixio.digital)
+- **Legal Enquiries** (DMCA, Legal requests): [legal@krixio.digital](mailto:legal@krixio.digital)
+- **Network** (Abuse Reports): [reports@krixio.digital](mailto:reports@krixio.digital)
 - **VeloxVPN Enquiries**: [veloxvpn@krixio.digital](mailto:veloxvpn@krixio.digital)
 - **Ezrinix Enquiries**: [ezrinix@krixio.digital](mailto:veloxvpn@krixio.digital)
 
