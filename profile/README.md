@@ -6,8 +6,8 @@
 - 🏗 We're driven by our adhd and autism and dedication
 
 ## Our Links
-- **Website**: [boring.global](https://krixio.digital)
-- **Twitter**: [@krixiodigital](https://x.com/krixiodigital))
+- **Website**: [krixio.digital](https://krixio.digital)
+- **Twitter**: [@krixiodigital](https://x.com/krixiodigital)
 
 ## Our Subsidiaries
 - **VeloxVPN**: [veloxvpn.net](https://veloxvpn.net)
