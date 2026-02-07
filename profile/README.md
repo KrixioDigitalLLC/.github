@@ -10,13 +10,11 @@
 - **Twitter**: [@krixiodigital](https://x.com/krixiodigital)
 
 ## Our Subsidiaries
-- **VeloxVPN**: [veloxvpn.net](https://veloxvpn.net)
 - **Ezrinix**: [ezrinix.com](https://ezrinix.com)
 
 ## Contact Us
 - **General Enquiries**: [business@krixio.digital](mailto:business@krixio.digital)
 - **Legal Enquiries** (DMCA, Legal requests): [legal@krixio.digital](mailto:legal@krixio.digital)
 - **Network** (Abuse Reports): [reports@krixio.digital](mailto:reports@krixio.digital)
-- **VeloxVPN Enquiries**: [veloxvpn@krixio.digital](mailto:veloxvpn@krixio.digital)
 - **Ezrinix Enquiries**: [ezrinix@krixio.digital](mailto:veloxvpn@krixio.digital)
 
