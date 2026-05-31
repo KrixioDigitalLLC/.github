@@ -1,25 +1,20 @@
 ### Hi there 👋, We're The Boring Global.
-> We're holdings company that is ran by two goofy people who like to build and improve on the foundation of the never ending internet.
+> Krixio Digital, LLC builds, owns, and operates multiple cutting-edge brands—powering innovation and growth across the digital space.
 
-- 🔭 We love working on and delivering open-source projects 
-- 🌱 Always learning new Technologies
-- 🏗 We're driven by our adhd and autism and dedication
 
 ## Our Links
-- **Website**: [boring.global](https://boring.global)
-- **Twitter**: [@boringlobal](https://twitter.com/boringlobal)
+- **Website**: [krixio.digital](https://krixio.digital)
+- **Twitter**: [@krixiodigital](https://twitter.com/KrixioDigital)
+- **Discord**: [Krixio Digital Discord](https://discord.gg/GX5C9Je2gE)
 
 ## Our Subsidiaries
-- **Vultrex Development**
-  - Website: [vultrex.dev](https://vultrex.dev)
-  - GitHub: [github.com/vultrex](https://github.com/vultrex)
-  - Discord: [Join Vultrex Discord](https://discord.gg/aaaaaaaaaa)
-- **MarvelixBot**: [marvelixbot.com](https://marvelixbot.com)
-- **Sharebybit**: [sharebybit.com](https://sharebybit.com)
+- **BlitzNode**
+  - Website: [blitznode.com](https://blitznode.com)
+  - GitHub: [github.com/blitznode](https://github.com/blitznode)
+  - Discord: [Join BlitzNode Discord](https://discord.gg/nWysbCYmNB)
 
 ## Contact Us
-- **General Enquiries**: [hello@boring.global](mailto:hello@boring.global)
-- **Legal Enquiries** (DMCA, Legal requests): [legal@boring.global](mailto:legal@boring.global)
-- **Network** (Abuse Reports): [reports@boring.global](mailto:reports@boring.global)
-- **Vultrex Enquiries**: [vultrex@boring.global](mailto:vultrex@boring.global)
+- **General Enquiries**: [hello@krixio.digital](mailto:hello@krixio.digital)
+- **Legal Enquiries** (DMCA, Legal requests): [legal@krixio.digital](mailto:legal@krixio.digital)
+
 
