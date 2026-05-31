@@ -1,4 +1,4 @@
-### Hi there 👋, We're The Boring Global.
+## About Krixio Digital
 > Krixio Digital, LLC builds, owns, and operates multiple cutting-edge brands—powering innovation and growth across the digital space.
 
 ## Our Links
